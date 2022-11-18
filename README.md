@@ -1,4 +1,4 @@
-# 📜 Huggingface Transformers Demo
+# NLP 📜 Huggingface Transformers Demo
 Demo of different huggingface NLP transformers pipelines : 
 
 * Question Answering.
